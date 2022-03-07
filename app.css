@@ -60,7 +60,7 @@ h1 span{
 }
 
 .stat-header{
-    color: var(--stat-heading);
+    color: white;
     font-weight: 700;
     font-size: 1.8em;
     padding-bottom: 1em;
